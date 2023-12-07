@@ -1,4 +1,5 @@
-// dotenv is a npm packeg
+// input external modules-require
+// dotenv is a npm 
 require('dotenv').config();
 
 const express = require('express');
